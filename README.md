@@ -39,10 +39,10 @@ Fun facts:
 
 - I have two cats
 - I'm into anime
-- I REALLY like memes and broken humor
+- I love memes and broken humor
 - I like doing exercise, reading books and going
 for a walk
-- I'm a retro games
+
 
 <br clear="right">
 
