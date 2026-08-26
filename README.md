@@ -31,7 +31,7 @@ Moreover, I LOVE playing with my modded 3DS and I'd love to make some apps and g
 
 ###
 
-<img data-importer="image" align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZzYjBvYnkwYm45YjFyZGtudmNoOXAxbHQ1OHYxeHVuaGg5dDFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif"  />
+<img data-importer="image" align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAyeHhoem9vY3B5MDRhd2dnYWt3Y2xwMGpxcGxoYm1yaTVjem5sNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4smZB4WZpWbA8HiEV0/giphy.gif"  />
 
 ###
 
