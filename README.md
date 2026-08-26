@@ -1,9 +1,8 @@
 # Hello there!
 
-I'm Re:Alloc. I'm an aspiring Spanish low-level dev who likes programming in C by doing personal projects and who wants to learn C++ and x86 Assembly. I like Embedded Systems and IoT
+I'm HFMaker. I'm an aspiring Spanish low-level dev who likes programming in C by doing personal projects and who wants to learn C++ and x86 Assembly. I like Embedded Systems and IoT
 
-I may not have many repos including all the languages below, and that's because I mainly use C (like I said before). I mean, I use Lua to make some scripts for Hyprland or Nvim, Go for
-CLI tools (sometimes) and Python and Bash for automation (I usually don't automate things lol)
+Moreover, I like playing with my 3DS and I'd love to make some apps and games for the 3DS Homebrew community :3
 
 # Languages and tools I use
 
@@ -39,13 +38,11 @@ CLI tools (sometimes) and Python and Bash for automation (I usually don't automa
 Fun facts:
 
 - I have two cats
-- I'm into anime (JoJo's is my favorite)
+- I'm into anime
 - I REALLY like memes and broken humor
-- I'm kinda shy
 - I like doing exercise, reading books and going
 for a walk
-- I LOVE videogames (for example, Persona 3)
-- I'm a retro games enthusiast as well
+- I'm a retro games
 
 <br clear="right">
 
