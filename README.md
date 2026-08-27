@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there! 🗣️
 
 I'm HFMaker. I'm an aspiring Spanish low-level dev who likes programming in C by doing personal projects and who wants to learn C++ and x86 Assembly. I like Embedded Systems and Electronics in general
 (tho I'm not an expert because I'm still learning)
