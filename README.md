@@ -32,13 +32,8 @@ Moreover, I LOVE playing with my modded 3DS and I'd love to make some apps and g
 
 ###
 
-Fun facts:
 
-- I have two cats
-- I'm into anime
-- I love memes and broken humor
-- I like doing exercise, reading books and going
-for a walk
+
 
 
 <br clear="right">
