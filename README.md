@@ -32,10 +32,11 @@ Moreover, I LOVE playing with my modded 3DS and I'd love to make some apps and g
 
 ###
 
-Fun facts:
+Fun facts about me:
 
-1. Uhh
-2. I don't know
+1. Helping others makes me happy
+2. I can't stand the smell of cigs
+3. I hate superficial relationships
 
 
 
